@@ -1,0 +1,7 @@
+D:\Programs\xampp\htdocs\dotNetProjects\WebAspTest\WebAspTest\obj\Release\net6.0\PubTmp\Out\WebAspTest.exe
+D:\Programs\xampp\htdocs\dotNetProjects\WebAspTest\WebAspTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Programs\xampp\htdocs\dotNetProjects\WebAspTest\WebAspTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Programs\xampp\htdocs\dotNetProjects\WebAspTest\WebAspTest\obj\Release\net6.0\PubTmp\Out\WebAspTest.dll
+D:\Programs\xampp\htdocs\dotNetProjects\WebAspTest\WebAspTest\obj\Release\net6.0\PubTmp\Out\WebAspTest.deps.json
+D:\Programs\xampp\htdocs\dotNetProjects\WebAspTest\WebAspTest\obj\Release\net6.0\PubTmp\Out\WebAspTest.runtimeconfig.json
+D:\Programs\xampp\htdocs\dotNetProjects\WebAspTest\WebAspTest\obj\Release\net6.0\PubTmp\Out\WebAspTest.pdb
